@@ -24,15 +24,15 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the guidelin
 
 ### Report a Bug
 
-If you find a bug, please report it using our [Bug Report Template](https://github.com/VectorDBCloud/community/issues/new?template=bug_report.md). Provide as much detail as possible to help us understand and resolve the issue.
+If you find a bug, please report it using our [Bug Report Template](https://github.com/VectorDBCloud/Community/issues/new?template=bug_report.md). Provide as much detail as possible to help us understand and resolve the issue.
 
 ### Request a Feature
 
-If you have a feature request, please submit it using our [Feature Request Template](https://github.com/VectorDBCloud/community/issues/new?template=feature_request.md). Describe your idea clearly to help us understand and implement your suggestion.
+If you have a feature request, please submit it using our [Feature Request Template](https://github.com/VectorDBCloud/Community/issues/new?template=feature_request.md). Describe your idea clearly to help us understand and implement your suggestion.
 
 ### Roadmap
 
-You can view our project's roadmap [here](https://github.com/VectorDBCloud/community/blob/main/roadmap.md) to see what we are currently working on and what is planned for the future.
+You can view our project's roadmap [here](https://github.com/VectorDBCloud/Community/blob/main/ROADMAP.md) to see what we are currently working on and what is planned for the future.
 
 ## Beta Testing
 
@@ -44,15 +44,15 @@ To join the beta testing program, please fill out [this form](#) to sign up. We 
 
 ### Report Beta Issues
 
-If you encounter any issues while testing beta features, please report them using our [Beta Bug Report Template](https://github.com/VectorDBCloud/community/issues/new?template=beta_bug_report.md).
+If you encounter any issues while testing beta features, please report them using our [Beta Bug Report Template](https://github.com/VectorDBCloud/Community/issues/new?template=beta_bug_report.md).
 
 ### Provide Feedback
 
-Your feedback is valuable to us! Please use our [Beta Feedback Template](https://github.com/VectorDBCloud/community/issues/new?template=beta_feedback.md) to provide your thoughts and suggestions.
+Your feedback is valuable to us! Please use our [Beta Feedback Template](https://github.com/VectorDBCloud/Community/issues/new?template=beta_feedback.md) to provide your thoughts and suggestions.
 
 ## Community Discussions
 
-Join our [Discussions](https://github.com/VectorDBCloud/community/discussions) to engage with the community, share ideas, and get feedback.
+Join our [Discussions](https://github.com/VectorDBCloud/Community/discussions) to engage with the community, share ideas, and get feedback.
 
 ## Related Repositories
 
@@ -64,6 +64,6 @@ Explore our other repositories to find resources, examples, and tools related to
 - **[tutorials](https://github.com/VectorDBCloud/tutorials)**: Step-by-step tutorials and educational content to help you get started with VectorDBCloud and its integrations.
 - **[models](https://github.com/VectorDBCloud/models)**: Pre-trained models optimized for use with VectorDBCloud and vector databases.
 - **[website](https://github.com/VectorDBCloud/website)**: The source code for `snippets.vectordbcloud.com`, including frontend and backend components.
-- **[community](https://github.com/VectorDBCloud/community)**: You are here! The central hub for all community-related activities, including bug reporting, feature requests, and discussions.
+- **[community](https://github.com/VectorDBCloud/Community)**: You are here! The central hub for all community-related activities, including bug reporting, feature requests, and discussions.
 
 We encourage you to explore these repositories, contribute your own examples, and engage with the Vector Database Cloud community!
