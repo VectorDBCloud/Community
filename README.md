@@ -40,7 +40,7 @@ We appreciate your interest in helping us test new features! Here’s how you ca
 
 ### How to Join
 
-To join the beta testing program, please fill out [this form](#) to sign up. We will notify you with further instructions.
+To join the beta testing program, please fill out [this form](https://tally.so/r/m6x0QB)) to sign up. We will notify you with further instructions.
 
 ### Report Beta Issues
 
