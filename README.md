@@ -1,6 +1,11 @@
-# Vector Database Cloud Community Repository
+# Welcome to Vector Database Cloud
 
-Welcome to the Vector Database Cloud Community Repository! This is the central place for reporting bugs, requesting features, viewing our project roadmap, beta testing, and engaging with our community.
+Welcome to the official GitHub organization for Vector Database Cloud! This is the central place for our open-source projects, joining beta test program, community discussions, andreporting bugs, requesting features, viewing our platform roadmap, make contributions and engaging with our community.
+
+## What We Offer
+
+Vector Database Cloud provides one-click deployment of popular vector databases including Qdrant, Milvus, ChromaDB, and Pgvector on cloud. Our platform ensures a secure API, a comprehensive customer dashboard, efficient vector search, and real-time monitoring.
+
 
 ## Table of Contents
 
@@ -18,7 +23,7 @@ Welcome to the Vector Database Cloud Community Repository! This is the central p
 
 ## Code of Conduct
 
-Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the guidelines for participating in our community.
+Please read our [Code of Conduct](https://github.com/VectorDBCloud/Community/blob/main/CODE_OF_CONDUCT.md) to understand the guidelines for participating in our community.
 
 ## How to Contribute
 
