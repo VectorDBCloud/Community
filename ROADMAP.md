@@ -1,23 +1,30 @@
 # Project Roadmap
 
-Welcome to our project roadmap! This document outlines our current and planned work.
+Welcome to the Vector Database Cloud Roadmap! This document outlines the current progress, future features, and long-term goals for our platform.
 
-## Current Work
+## Current Focus
 
-- [ ] **Feature 1**: Description of Feature 1
-- [ ] **Bug Fix 1**: Description of Bug Fix 1
-- [ ] **Improvement 1**: Description of Improvement 1
+### Q3 2024
+- **Beta Testing**: Launching beta testing for new features in VectorDBCloud.
+- **Community Engagement**: Establishing a strong community presence through contributions and discussions.
 
-## Planned Work
+## Upcoming Features
 
-- [ ] **Feature 2**: Description of Feature 2
-- [ ] **Bug Fix 2**: Description of Bug Fix 2
-- [ ] **Improvement 2**: Description of Improvement 2
+### Q4 2024
+- **Enhanced Search Capabilities**: Integration with advanced NLP models for improved search functionality.
+- **User Dashboard**: Development of a comprehensive dashboard for user analytics and data visualization.
 
-## Completed Work
+### Q1 2025
+- **New Database Integrations**: Expanding support to include additional vector databases.
+- **AI-Assisted Querying**: Implementing AI tools for more intuitive data querying.
 
-- [x] **Feature 3**: Description of Feature 3
-- [x] **Bug Fix 3**: Description of Bug Fix 3
-- [x] **Improvement 3**: Description of Improvement 3
+## Long-Term Vision
 
-We regularly update this roadmap to reflect the project's progress and upcoming plans.
+- **Scalability Improvements**: Enhancing the platform's ability to handle large-scale data and queries.
+- **Global Community**: Building a global community of contributors and users.
+- **Open Source Contributions**: Encouraging open source contributions to enhance platform capabilities.
+
+Stay tuned for updates and feel free to provide feedback or suggestions in our [Community Discussions](https://github.com/VectorDBCloud/community/discussions) section!
+
+---
+*Last updated: [July 2024]*
