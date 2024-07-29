@@ -44,7 +44,7 @@ To join the beta testing program, please fill out <a href="https://tally.so/r/m6
 
 ### Report Beta Issues
 
-If you encounter any issues while testing beta features, please report them using our [Beta Bug Report Template](https://github.com/VectorDBCloud/Community/issues/new?template=beta_bug_report.md).
+If you encounter any issues while testing beta features, please report them using our [Beta Bug Report Template](https://github.com/VectorDBCloud/Community/issues/new?labels=bug,beta&template=beta_bug_report.md).
 
 ### Provide Feedback
 
@@ -58,11 +58,11 @@ Join our [Discussions](https://github.com/VectorDBCloud/Community/discussions) t
 
 Explore our other repositories to find resources, examples, and tools related to Vector Database Cloud:
 
-- **[snippets](https://github.com/VectorDBCloud/snippets)**: A collection of community-contributed code snippets categorized by use case and technology. Share your snippets and discover practical examples.
-- **[chatbots](https://github.com/VectorDBCloud/chatbots)**: Repository for chatbot implementations using Hugging Face models integrated with VectorDBCloud.
-- **[demos](https://github.com/VectorDBCloud/demos)**: Showcase of demos demonstrating the capabilities of VectorDBCloud, including semantic search, image retrieval, and more.
-- **[tutorials](https://github.com/VectorDBCloud/tutorials)**: Step-by-step tutorials and educational content to help you get started with VectorDBCloud and its integrations.
-- **[models](https://github.com/VectorDBCloud/models)**: Pre-trained models optimized for use with VectorDBCloud and vector databases.
+- **[snippets](https://github.com/VectorDBCloud/snippets)**: A collection of user-generated code snippets, including enhancements, CSV file uploads, ETL processes, and more, built for or in conjunction with pgvector, Milvus, Qdrant, and ChromaDB.
+- **[chatbots](https://github.com/VectorDBCloud/chatbots)**: Repository for user-generated chatbots built for or in conjunction with pgvector, Milvus, Qdrant, and ChromaDB.
+- **[demos](https://github.com/VectorDBCloud/demos)**: Showcases user projects deployed via VectorDBCloud (or independently) that utilize pgvector, Milvus, Qdrant, and ChromaDB.
+- **[tutorials](https://github.com/VectorDBCloud/tutorials)**: Focused tutorials on using pgvector, Milvus, Qdrant, and ChromaDB, guiding users through various use cases and integrations.
+- **[models](https://github.com/VectorDBCloud/models)**: A curated list of Hugging Face models optimized for use with pgvector, Milvus, Qdrant, and ChromaDB.
 - **[website](https://github.com/VectorDBCloud/website)**: The source code for `snippets.vectordbcloud.com`, including frontend and backend components.
 - **[community](https://github.com/VectorDBCloud/Community)**: You are here! The central hub for all community-related activities, including bug reporting, feature requests, and discussions.
 
