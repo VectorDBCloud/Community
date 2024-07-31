@@ -4,7 +4,7 @@ Welcome to the official GitHub organization for Vector Database Cloud! This is t
 
 ## What We Offer
 
-Vector Database Cloud provides one-click deployment of popular vector databases including Qdrant, Milvus, ChromaDB, and Pgvector on the cloud. Our platform ensures a secure API, a comprehensive customer dashboard, efficient vector search, and real-time monitoring.
+Vector Database Cloud provides one-click deployment of popular vector databases including Qdrant, Milvus, ChromaDB, and Pgvector on cloud. Our platform ensures a secure API, a comprehensive customer dashboard, efficient vector search, and real-time monitoring.
 
 ## Table of Contents
 
@@ -67,6 +67,8 @@ Explore our other repositories to find resources, examples, and tools related to
 - **[Demos](https://github.com/VectorDBCloud/demos)**: Showcases user projects deployed via VectorDBCloud (or independently) that utilize pgvector, Milvus, Qdrant, and ChromaDB.
 - **[Tutorials](https://github.com/VectorDBCloud/tutorials)**: Focused tutorials on using pgvector, Milvus, Qdrant, and ChromaDB, guiding users through various use cases and integrations.
 - **[Models](https://github.com/VectorDBCloud/models)**: A curated list of Hugging Face models optimized for use with pgvector, Milvus, Qdrant, and ChromaDB.
+- **[Embeddings](https://github.com/VectorDBCloud/Embeddings)**: Pre-computed embeddings for various data types, optimized for use with vector databases.
+- **[Datasets](https://github.com/VectorDBCloud/Datasets)**: A collection of open-source datasets relevant to vector database applications.
 - **[Website](https://github.com/VectorDBCloud/website)**: The source code for `snippets.vectordbcloud.com`, including frontend and backend components.
 - **[Community](https://github.com/VectorDBCloud/Community)**: You are here! The central hub for all community-related activities, including bug reporting, feature requests, and discussions.
 - **[Showcase](https://github.com/VectorDBCloud/Showcase)**: A platform to highlight innovative projects and use cases developed by the community using VectorDBCloud technologies.
