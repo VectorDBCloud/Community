@@ -1,6 +1,17 @@
-# Project Roadmap
+# Vector Database Cloud Roadmap
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Last Updated](https://img.shields.io/badge/last%20updated-July%202024-brightgreen.svg)
 
 Welcome to the Vector Database Cloud Roadmap! This document outlines the current progress, future features, and long-term goals for our platform.
+
+## Table of Contents
+
+- [Current Focus](#current-focus)
+- [Upcoming Features](#upcoming-features)
+- [Long-Term Vision](#long-term-vision)
+- [Completed Milestones](#completed-milestones)
+- [How to Contribute](#how-to-contribute)
 
 ## Current Focus
 
@@ -24,7 +35,19 @@ Welcome to the Vector Database Cloud Roadmap! This document outlines the current
 - **Global Community**: Building a global community of contributors and users.
 - **Open Source Contributions**: Encouraging open source contributions to enhance platform capabilities.
 
-Stay tuned for updates and feel free to provide feedback or suggestions in our [Community Discussions](https://github.com/VectorDBCloud/community/discussions) section!
+## Completed Milestones
+
+### Semantic search
+
+## How to Contribute
+
+We welcome community input on our roadmap! Here's how you can contribute:
+
+1. **Provide Feedback**: Share your thoughts on planned features in our [Community Discussions](https://github.com/VectorDBCloud/Community/discussions).
+2. **Suggest New Features**: If you have ideas for new features, please submit them using our [Feature Request Template](REQUEST_A_FEATURE.md).
+3. **Contribute Code**: If you'd like to work on any of the planned features, please check our [Contributing Guidelines](CONTRIBUTING.md).
+
+Please note that this roadmap is subject to change based on user feedback, market conditions, and technological advancements.
 
 ---
-*Last updated: [July 2024]*
+*Last updated: July 2024*
