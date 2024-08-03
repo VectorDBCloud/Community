@@ -1,24 +1,39 @@
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 # Welcome to Vector Database Cloud
 
 Welcome to the official GitHub organization for Vector Database Cloud! This is the central place for our open-source projects, joining the beta test program, community discussions, reporting bugs, requesting features, viewing our platform roadmap, making contributions, and engaging with our community.
 
+
+
+## Table of Contents
+
+- [About](#about)
+- [Prerequisites](#prerequisites)
+- [What We Offer](#what-we-offer)
+- [Code of Conduct](#code-of-conduct)
+- [How to Contribute](#how-to-contribute)
+- [Beta Testing](#beta-testing)
+- [Community Discussions](#community-discussions)
+- [Related Repositories](#related-repositories)
+- [Troubleshooting](#troubleshooting)
+- [Disclaimer](#disclaimer)
+
+## About
+
+Vector Database Cloud provides one-click deployment of popular vector databases including Qdrant, Milvus, ChromaDB, and Pgvector on cloud. Our platform ensures a secure API, a comprehensive customer dashboard, efficient vector search, and real-time monitoring.
+
+## Prerequisites
+
+- A GitHub account
+- Familiarity with Git and GitHub
+- Knowledge of vector databases and their applications
+  
 ## What We Offer
 
 Vector Database Cloud provides one-click deployment of popular vector databases including Qdrant, Milvus, ChromaDB, and Pgvector on cloud. Our platform ensures a secure API, a comprehensive customer dashboard, efficient vector search, and real-time monitoring.
 
-## Table of Contents
-
-- [Code of Conduct](#code-of-conduct)
-- [How to Contribute](#how-to-contribute)
-  - [Report a Bug](#report-a-bug)
-  - [Request a Feature](#request-a-feature)
-  - [Roadmap](#roadmap)
-- [Beta Testing](#beta-testing)
-  - [How to Join](#how-to-join)
-  - [Report Beta Issues](#report-beta-issues)
-  - [Provide Feedback](#provide-feedback)
-- [Community Discussions](#community-discussions)
-- [Related Repositories](#related-repositories)
 
 ## Code of Conduct
 
@@ -58,6 +73,7 @@ Your feedback is valuable to us! Please use our [Beta Feedback Template](https:/
 
 Join our [Discussions](https://github.com/VectorDBCloud/Community/discussions) to engage with the community, share ideas, and get feedback.
 
+
 ## Related Repositories
 
 Explore our other repositories to find resources, examples, and tools related to Vector Database Cloud:
@@ -73,4 +89,18 @@ Explore our other repositories to find resources, examples, and tools related to
 - **[Community](https://github.com/VectorDBCloud/Community)**: You are here! The central hub for all community-related activities, including bug reporting, feature requests, and discussions.
 - **[Showcase](https://github.com/VectorDBCloud/Showcase)**: A platform to highlight innovative projects and use cases developed by the community using VectorDBCloud technologies.
 
-We encourage you to explore these repositories, contribute your own examples, and engage with the Vector Database Cloud community!
+## Troubleshooting
+
+If you encounter any issues while using Vector Database Cloud or participating in our community:
+
+1. Check our [FAQ](link-to-faq) for common questions and answers.
+2. Review the documentation specific to the vector database you're using.
+3. Search existing issues in the relevant repository to see if your problem has already been addressed.
+4. If you can't find a solution, feel free to open a new issue in the appropriate repository, providing as much detail as possible about the problem you're experiencing.
+
+
+## Disclaimer
+
+The information and resources provided in this community repository are for general informational purposes only. While we strive to keep the information up-to-date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information, products, services, or related graphics contained in this repository for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+
+Vector Database Cloud configurations may vary, and it's essential to consult the official documentation before implementing any solutions or suggestions found in this community repository. Always follow best practices for security and performance when working with databases and cloud services.
