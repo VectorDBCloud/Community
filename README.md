@@ -88,6 +88,9 @@ Explore our other repositories to find resources, examples, and tools related to
 - **[Website](https://github.com/VectorDBCloud/website)**: The source code for `snippets.vectordbcloud.com`, including frontend and backend components.
 - **[Community](https://github.com/VectorDBCloud/Community)**: You are here! The central hub for all community-related activities, including bug reporting, feature requests, and discussions.
 - **[Showcase](https://github.com/VectorDBCloud/Showcase)**: A platform to highlight innovative projects and use cases developed by the community using VectorDBCloud technologies.
+- **[Ingestion-Cookbooks](https://github.com/VectorDBCloud/Ingestion-Cookbooks)**: Recipes and guides for data ingestion into vector databases.
+- **[Open-Source-Embedding-Cookbook](https://github.com/VectorDBCloud/Open-Source-Embedding-Cookbook)**: Collection of open-source embedding techniques and best practices.
+
 
 ## Troubleshooting
 
