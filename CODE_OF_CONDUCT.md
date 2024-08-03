@@ -1,5 +1,16 @@
 # Code of Conduct
 
+![Version](https://img.shields.io/badge/version-1.4-blue.svg)
+
+## Table of Contents
+
+- [Our Pledge](#our-pledge)
+- [Our Standards](#our-standards)
+- [Our Responsibilities](#our-responsibilities)
+- [Scope](#scope)
+- [Enforcement](#enforcement)
+- [Attribution](#attribution)
+
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
@@ -32,8 +43,14 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [your-email@example.com]. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [your-email@example.com]. All complaints will be reviewed and investigated promptly and fairly. All project maintainers are obligated to respect the privacy and security of the reporter of any incident.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 1.4.
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+
+For answers to common questions about this code of conduct, see https://www.contributor-covenant.org/faq
+
+## License
+
+This Code of Conduct is licensed under the [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/).
