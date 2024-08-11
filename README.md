@@ -1,31 +1,25 @@
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-CC%20BY%204.0-green.svg)
+![Version](https://img.shields.io/badge/version-1.1.0-blue.svg) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-green.svg)
 
 # Welcome to Vector Database Cloud
 
 Welcome to the official GitHub organization for Vector Database Cloud! This is the central place for our open-source projects, joining the beta test program, community discussions, reporting bugs, requesting features, viewing our platform roadmap, making contributions, and engaging with our community.
-
-
 
 # Vector Database Cloud Community
 
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Prerequisites](#prerequisites)
-3. [Supported Databases and Technologies](#supported-databases-and-technologies)
-4. [Features and Offerings](#features-and-offerings)
-5. [Usage Instructions](#usage-instructions)
-6. [Important Notes](#important-notes)
-7. [Related Repositories](#related-repositories)
-8. [Beta Testing](#beta-testing)
-9. [Community Discussions](#community-discussions)
-10. [Troubleshooting](#troubleshooting)
-11. [Contribution and Feedback](#contribution-and-feedback)
-12. [License](#license)
-13. [Disclaimer](#disclaimer)
+3. [What We Offer](#what-we-offer)
+4. [Code of Conduct](#code-of-conduct)
+5. [How to Contribute](#how-to-contribute)
+6. [Beta Testing](#beta-testing)
+7. [Community Discussions](#community-discussions)
+8. [Related Repositories](#related-repositories)
+9. [Troubleshooting](#troubleshooting)
+10. [License](#license)
+11. [Disclaimer](#disclaimer)
 
-
-## About
+## Introduction
 
 Vector Database Cloud provides one-click deployment of popular vector databases including Qdrant, Milvus, ChromaDB, and Pgvector on cloud. Our platform ensures a secure API, a comprehensive customer dashboard, efficient vector search, and real-time monitoring.
 
@@ -34,11 +28,10 @@ Vector Database Cloud provides one-click deployment of popular vector databases 
 - A GitHub account
 - Familiarity with Git and GitHub
 - Knowledge of vector databases and their applications
-  
+
 ## What We Offer
 
 Vector Database Cloud provides one-click deployment of popular vector databases including Qdrant, Milvus, ChromaDB, and Pgvector on cloud. Our platform ensures a secure API, a comprehensive customer dashboard, efficient vector search, and real-time monitoring.
-
 
 ## Code of Conduct
 
@@ -60,7 +53,7 @@ You can view our project's roadmap [here](https://github.com/VectorDBCloud/Commu
 
 ## Beta Testing
 
-We appreciate your interest in helping us test new features! Here’s how you can get involved:
+We appreciate your interest in helping us test new features! Here's how you can get involved:
 
 ### How to Join
 
@@ -78,7 +71,6 @@ Your feedback is valuable to us! Please use our [Beta Feedback Template](https:/
 
 Join our [Discussions](https://github.com/VectorDBCloud/Community/discussions) to engage with the community, share ideas, and get feedback.
 
-
 ## Related Repositories
 
 Explore our other repositories to find resources, examples, and tools related to Vector Database Cloud:
@@ -95,7 +87,6 @@ Explore our other repositories to find resources, examples, and tools related to
 - **[Showcase](https://github.com/VectorDBCloud/Showcase)**: A platform to highlight innovative projects and use cases developed by the community using VectorDBCloud technologies.
 - **[Ingestion-Cookbooks](https://github.com/VectorDBCloud/Ingestion-Cookbooks)**: Recipes and guides for data ingestion into vector databases.
 - **[Open-Source-Embedding-Cookbook](https://github.com/VectorDBCloud/Open-Source-Embedding-Cookbook)**: Collection of open-source embedding techniques and best practices.
-
 
 ## Troubleshooting
 
@@ -120,7 +111,7 @@ You are free to:
 Under the following terms:
 - Attribution — You must give appropriate credit to Vector Database Cloud, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests Vector Database Cloud endorses you or your use.
 
-Additionally, we require that any use of this guide includes visible attribution to Vector Database Cloud. This attribution should be in the form of "Based onVector Database Cloud Community", along with a link to https://vectordbcloud.com, in any public-facing applications, documentation, or redistributions of this guide.
+Additionally, we require that any use of this guide includes visible attribution to Vector Database Cloud. This attribution should be in the form of "Based on Vector Database Cloud Community", along with a link to https://vectordbcloud.com, in any public-facing applications, documentation, or redistributions of this guide.
 
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
