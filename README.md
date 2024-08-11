@@ -1,5 +1,5 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![License](https://img.shields.io/badge/license-CC%20BY%204.0-green.svg)
 
 # Welcome to Vector Database Cloud
 
@@ -100,6 +100,26 @@ If you encounter any issues while using Vector Database Cloud or participating i
 2. Review the documentation specific to the vector database you're using.
 3. Search existing issues in the relevant repository to see if your problem has already been addressed.
 4. If you can't find a solution, feel free to open a new issue in the appropriate repository, providing as much detail as possible about the problem you're experiencing.
+
+
+## License
+
+This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Copyright (c) 2024 VectorDBCloud
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- Attribution — You must give appropriate credit to VectorDBCloud, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests VectorDBCloud endorses you or your use.
+
+Additionally, we require that any use of this guide includes visible attribution to VectorDBCloud. This attribution should be in the form of "Guide created by VectorDBCloud" or "Based on Vector Database Cloud documentation", along with a link to https://vectordbcloud.com, in any public-facing applications, documentation, or redistributions of this guide.
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+For the full license text, visit: https://creativecommons.org/licenses/by/4.0/legalcode
 
 
 ## Disclaimer
