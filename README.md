@@ -49,8 +49,8 @@ The Ephemeral Context Protocol (ECP) is our proprietary, multi-cloud platform fe
 ### Getting Started with ECP
 
 1. **Read the [ECP Specification](https://github.com/VectorDBCloud/ECP/blob/main/specification.md)**: Understand the protocol design and components
-2. **Try the [ECP Sandbox](https://github.com/VectorDBCloud/ECP/blob/main/try.md)**: Experiment with ECP in a controlled environment
-3. **Join our [Case Study Program](https://github.com/VectorDBCloud/ECP/blob/main/try.md)**: Share your experience implementing ECP
+2. **Try the [ECP Sandbox](https://github.com/VectorDBCloud/ECP/blob/main/case-study.md)**: Experiment with ECP in a controlled environment
+3. **Join our [Case Study Program](https://github.com/VectorDBCloud/ECP/blob/main/case-study.md)**: Share your experience implementing ECP
 
 ### ECP Resources
 
@@ -160,4 +160,5 @@ The use of any information or code in this repository may carry inherent risks, 
 For complex implementations or critical systems, we strongly recommend seeking advice from qualified professionals or consulting services.
 
 By using this repository, you acknowledge and agree to this disclaimer. If you do not agree with any part of this disclaimer, please do not use the information or resources provided in this repository.
+
 
