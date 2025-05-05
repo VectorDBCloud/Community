@@ -1,4 +1,4 @@
-# Welcome to Vector Database Cloud
+﻿# Welcome to Vector Database Cloud
 
 [![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://vectordbcloud.com) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -48,16 +48,16 @@ The Ephemeral Context Protocol (ECP) is our proprietary, multi-cloud platform fe
 
 ### Getting Started with ECP
 
-1. **Read the [ECP Specification](https://ecp.vectordbcloud.com/specification)**: Understand the protocol design and components
-2. **Try the [ECP Sandbox](https://ecp.vectordbcloud.com/try)**: Experiment with ECP in a controlled environment
-3. **Join our [Case Study Program](https://ecp.vectordbcloud.com/case-study)**: Share your experience implementing ECP
+1. **Read the [ECP Specification](https://github.com/VectorDBCloud/ECP/blob/main/specification.md)**: Understand the protocol design and components
+2. **Try the [ECP Sandbox](https://github.com/VectorDBCloud/ECP/blob/main/try.md)**: Experiment with ECP in a controlled environment
+3. **Join our [Case Study Program](https://github.com/VectorDBCloud/ECP/blob/main/try.md)**: Share your experience implementing ECP
 
 ### ECP Resources
 
-- [ECP Documentation](https://ecp.vectordbcloud.com/docs)
-- [ECP Schema](https://ecp.vectordbcloud.com/schema)
+- [ECP Documentation](https://github.com/VectorDBCloud/ECP)
+- [ECP Schema](https://github.com/VectorDBCloud/ECP/blob/main/schema.json)
 - [ECP GitHub Repository](https://github.com/VectorDBCloud/ecp)
-- [ECP Security Whitepaper](https://ecp.vectordbcloud.com/security)
+- [ECP Security Whitepaper](https://github.com/VectorDBCloud/ECP)
 
 ## Code of Conduct
 
@@ -132,16 +132,16 @@ Copyright (c) 2025 Vector Database Cloud
 
 You are free to:
 
-* Share — copy and redistribute the material in any medium or format
-* Adapt — remix, transform, and build upon the material for any purpose, even commercially
+* Share â€” copy and redistribute the material in any medium or format
+* Adapt â€” remix, transform, and build upon the material for any purpose, even commercially
 
 Under the following terms:
 
-* Attribution — You must give appropriate credit to Vector Database Cloud, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests Vector Database Cloud endorses you or your use.
+* Attribution â€” You must give appropriate credit to Vector Database Cloud, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests Vector Database Cloud endorses you or your use.
 
 Additionally, we require that any use of this guide includes visible attribution to Vector Database Cloud. This attribution should be in the form of "Based on Vector Database Cloud Community", along with a link to [https://vectordbcloud.com](https://vectordbcloud.com), in any public-facing applications, documentation, or redistributions of this guide.
 
-No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+No additional restrictions â€” You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 For the full license text, visit: [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode)
 
@@ -160,3 +160,4 @@ The use of any information or code in this repository may carry inherent risks, 
 For complex implementations or critical systems, we strongly recommend seeking advice from qualified professionals or consulting services.
 
 By using this repository, you acknowledge and agree to this disclaimer. If you do not agree with any part of this disclaimer, please do not use the information or resources provided in this repository.
+
